@@ -1,8 +1,8 @@
 streamlit
-numpy
 pandas
-sklearn
+numpy
+matplotlib
+seaborn
+scikit-learn
 xgboost
 plotly
-matplotlib
-matplotlib.pyplot
